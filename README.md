@@ -111,40 +111,9 @@ breast-cancer-classification/
 │
 ├── breast_cancer_classification.py
 ├── README.md
-└── requirements.txt
-```
 
----
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/breast-cancer-classification.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd breast-cancer-classification
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Run the Project
-
-```bash
-python breast_cancer_classification.py
-```
-
----
 
 ## Future Improvements
 
