@@ -115,7 +115,8 @@ breast-cancer-classification/
 
 
 
-## Future Improvements
+
+Future Improvements
 
 * Data visualization using Matplotlib and Seaborn
 * Feature scaling and normalization
